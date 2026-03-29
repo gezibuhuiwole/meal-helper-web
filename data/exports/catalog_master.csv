@@ -1,0 +1,484 @@
+﻿dishId,name,cuisineId,cuisineName,regionId,regionName,categoryId,categoryName,subcategoryId,subcategoryName,dietaryTypeId,dietaryTypeLabel,defaultMealPeriodId,mealPeriodIds,ingredients,caloriesKcal,priceEstimateCny,servingNote,isActive
+dish_cnhome_ext_021,三鲜馄饨,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_mixed,荤素皆可,meal_breakfast,meal_breakfast / meal_lunch,面皮、猪肉馅、虾仁,430,18,1碗,True
+dish_cnhome_ext_022,猪肉白菜水饺,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_mixed,荤素皆可,meal_breakfast,meal_breakfast / meal_lunch,面皮、猪肉馅、包菜,480,19,1份,True
+dish_congee_pork,皮蛋瘦肉粥,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_mixed,荤素皆可,meal_breakfast,meal_breakfast,粳米、瘦肉、鸡蛋,260,12,1碗,True
+dish_cnhome_ext_027,紫菜蛋花汤面,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,鸡蛋、面条、海苔,360,14,1碗,True
+dish_scallion_noodle,葱油拌面,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,面条、洋葱,360,15,1碗,True
+dish_soymilk_youtiao,豆浆油条,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_vegetarian,素食,meal_breakfast,meal_breakfast,豆浆、油条,410,9,1份,True
+dish_cnhome_ext_023,青菜鸡蛋面,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,鸡蛋、面条、包菜,390,15,1碗,True
+dish_cnhome_ext_026,鸡丝汤面,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,鸡腿肉、面条,450,18,1碗,True
+dish_cnbj_ext_003,门钉肉饼,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,瘦肉、薄饼,598,28,1份,True
+dish_cnbj_ext_024,京八件,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,347,13,1份,True
+dish_cnbj_ext_025,奶油炸糕,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,奶油、糯米,208,20,1份,True
+dish_cnbj_ext_027,果子干,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,308,14,1份,True
+dish_cnbj_ext_029,炸灌肠,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,猪大肠、洋葱,272,18,1份,True
+dish_cnbj_ext_028,焦圈,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,256,16,1份,True
+dish_cnbj_ext_030,糖火烧,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,230,22,1份,True
+dish_cnbj_ext_022,糖耳朵,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,258,12,1份,True
+dish_cnbj_ext_021,艾窝窝,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,314,14,1份,True
+dish_cnbj_ext_023,芝麻烧饼,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,薄饼、洋葱,327,23,1份,True
+dish_cnbj_ext_026,豆面糕,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,糯米、面条,211,21,1份,True
+dish_pea_cake,豌豆黄,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,豌豆,180,10,1份,True
+dish_donkey_roll,驴打滚,cuisine_cn,中餐,region_china_beijing,北京,cat_snack,小吃,subcat_cn_beijing_snack,京菜-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,糯米、红豆,220,12,1份,True
+dish_cnbj_ext_012,炒肝配包子,cuisine_cn,中餐,region_china_beijing,北京,cat_staple,主食,subcat_cn_beijing_staple,京菜-面饭类,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,349,15,1份,True
+dish_cnbj_ext_016,牛肉烧饼,cuisine_cn,中餐,region_china_beijing,北京,cat_staple,主食,subcat_cn_beijing_staple,京菜-面饭类,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,牛肉、瘦肉、薄饼,635,19,1份,True
+dish_cnbj_ext_013,豆汁焦圈,cuisine_cn,中餐,region_china_beijing,北京,cat_staple,主食,subcat_cn_beijing_staple,京菜-面饭类,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,豆浆、米饭,729,29,1份,True
+dish_cnbj_ext_018,麻酱烧饼,cuisine_cn,中餐,region_china_beijing,北京,cat_staple,主食,subcat_cn_beijing_staple,京菜-面饭类,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,薄饼、洋葱,723,29,1份,True
+dish_cngd_ext_023,叉烧包,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,215,19,1份,True
+dish_cngd_ext_028,双皮奶,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,奶油、洋葱,286,14,1份,True
+dish_cngd_ext_030,咸水角,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,190,22,1份,True
+dish_cngd_ext_022,奶黄包,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,奶油、面皮,319,11,1份,True
+dish_cngd_ext_029,姜撞奶,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,奶油、洋葱,274,22,1份,True
+dish_cngd_ext_021,干蒸烧卖,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,281,13,1份,True
+dish_lava_bao,流沙包,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,面皮、奶油、鸡蛋,280,16,1笼,True
+dish_cngd_ext_024,糯米鸡,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,鸡腿肉、洋葱,293,19,1份,True
+dish_cheung_fun,肠粉,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_mixed,荤素皆可,meal_breakfast,meal_breakfast / meal_lunch,米线、鸡蛋,260,15,1份,True
+dish_cngd_ext_026,萝卜糕,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,糯米、洋葱,258,20,1份,True
+dish_ha_gow,虾饺,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_seafood,海鲜,meal_breakfast,meal_breakfast / meal_lunch,面皮、虾仁,210,18,1笼,True
+dish_cngd_ext_025,马蹄糕,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,糯米、洋葱,309,21,1份,True
+dish_cngd_ext_027,鼓汁凤爪,cuisine_cn,中餐,region_china_guangdong,广东,cat_snack,小吃,subcat_cn_cantonese_dimsum,粤菜-点心,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,316,14,1份,True
+dish_wonton_noodle,云吞面,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_mixed,荤素皆可,meal_breakfast,meal_breakfast / meal_lunch,面皮、面条、猪肉馅,450,19,1碗,True
+dish_cngd_ext_010,生滚鱼片粥,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_seafood,海鲜,meal_breakfast,meal_breakfast / meal_lunch,鱼片、粳米,525,37,1份,True
+dish_cnhn_ext_018,手撕包菜,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,包菜、面皮,321,15,1份,True
+dish_cndb_ext_020,粘豆包,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,面皮、豆腐,399,17,1份,True
+dish_cndb_ext_025,锅贴玉米饼,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,薄饼、瘦肉,785,33,1份,True
+dish_cndb_ext_022,饭包,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,面皮、米饭、豆腐,250,16,1份,True
+dish_cnsd_ext_008,盘丝饼,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,薄饼、瘦肉,593,37,1份,True
+dish_cnsc_ext_027,伤心凉粉,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,米线、洋葱,193,23,1份,True
+dish_cnsc_ext_030,凉糕,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,糯米、洋葱,204,12,1份,True
+dish_cnsc_ext_029,叶儿粑,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,242,20,1份,True
+dish_xiaolongbao,小笼包,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast,面皮、猪肉馅,340,13,1笼,True
+dish_cnsc_ext_026,川北凉粉,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,米线、洋葱,208,16,1份,True
+dish_cnsc_ext_024,甜水面,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,面条、洋葱,224,12,1份,True
+dish_cnsc_ext_023,红糖糍粑,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,214,12,1份,True
+dish_cnsc_ext_022,蛋烘糕,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,糯米、洋葱,332,22,1份,True
+dish_cnsc_ext_025,赖汤圆,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,198,20,1份,True
+dish_cnsc_ext_028,钵钵鸡,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,鸡腿肉、洋葱,349,23,1份,True
+dish_cnsc_ext_021,龙抄手,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,300,12,1份,True
+dish_cnxj_ext_001,烤包子,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,面皮、豆腐,269,23,1份,True
+dish_cnxj_ext_011,羊肉焖饼,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,羊肉、瘦肉、薄饼,517,33,1份,True
+dish_cnxj_ext_002,馕包肉,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,瘦肉、面皮、薄饼,515,37,1份,True
+dish_cnxj_ext_028,薄皮包子,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,面皮、洋葱,291,21,1份,True
+dish_salmon_onigiri,三文鱼饭团,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_seafood,海鲜,meal_breakfast,meal_breakfast / meal_lunch,米饭、三文鱼、海苔,290,14,2个,True
+dish_onigiri_set,饭团味噌汤,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_seafood,海鲜,meal_breakfast,meal_breakfast,米饭、海苔、味噌、三文鱼,310,16,1份,True
+dish_tamagoyaki_plate,玉子烧早餐盘,cuisine_jp,日料,region_japan,日本,cat_main_dish,主菜,subcat_jp_small_plate,日料-定食/小料理,diet_vegetarian,素食,meal_breakfast,meal_breakfast,鸡蛋、生菜、吐司,290,18,1份,True
+dish_oats_yogurt_bowl,燕麦酸奶碗,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_bowl,轻食-能量碗,diet_vegetarian,素食,meal_breakfast,meal_breakfast,燕麦、酸奶、莓果,280,16,1碗,True
+dish_avocado_egg_toast,牛油果鸡蛋吐司,cuisine_light,轻食,region_global,全球通用,cat_staple,主食,subcat_west_brunch,西式-早午餐,diet_vegetarian,素食,meal_breakfast,meal_breakfast,牛油果、鸡蛋、吐司,300,20,2片,True
+dish_ham_croissant,法式火腿可颂,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_brunch,西式-早午餐,diet_meat,肉类,meal_breakfast,meal_breakfast,可颂、火腿、芝士,380,22,1份,True
+dish_scrambled_egg_toast,炒蛋蘑菇吐司,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_brunch,西式-早午餐,diet_vegetarian,素食,meal_breakfast,meal_breakfast,鸡蛋、吐司、菌菇,360,22,1份,True
+dish_eggs_benedict,班尼迪克蛋早餐盘,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_brunch,西式-早午餐,diet_vegetarian,素食,meal_breakfast,meal_breakfast,鸡蛋、吐司、牛油果,420,26,1份,True
+dish_cnhome_ext_003,可乐鸡翅饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡翅、米饭,660,26,1份,True
+dish_cnhome_ext_007,土豆炖鸡饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、土豆、米饭,640,24,1份,True
+dish_beef_potato_rice,土豆烧牛肉饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,牛肉、土豆、米饭,690,29,1份,True
+dish_cnhome_ext_004,木须肉饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡蛋、瘦肉、黄瓜、米饭,610,24,1份,True
+dish_cnhome_ext_006,洋葱牛肉饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、洋葱、米饭,650,28,1份,True
+dish_cnhome_ext_008,番茄牛腩饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、米饭、番茄,670,30,1份,True
+dish_cnhome_ext_002,糖醋排骨饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,排骨、米饭,690,29,1份,True
+dish_cnhome_ext_001,红烧排骨饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,排骨、米饭、洋葱,720,28,1份,True
+dish_braised_pork_rice,红烧肉饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,五花肉、米饭、洋葱,780,28,1份,True
+dish_cnhome_ext_009,肉末茄子饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,茄子、猪肉馅、米饭,590,22,1份,True
+dish_cnhome_ext_010,虾仁滑蛋饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鸡蛋、米饭、虾仁,540,27,1份,True
+dish_pepper_pork_rice,青椒肉丝饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,青椒、瘦肉、米饭、洋葱,620,24,1份,True
+dish_cnhome_ext_005,香菇滑鸡饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、菌菇、米饭,630,25,1份,True
+dish_braised_chicken_rice,黄焖鸡米饭,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_meat,肉类,meal_lunch,meal_lunch,鸡腿肉、米饭、土豆,720,25,1份,True
+dish_cucumber_salad,凉拌黄瓜,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,黄瓜、辣椒、花生,140,14,1份,True
+dish_cnhome_ext_018,南瓜炒蛋,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,鸡蛋、南瓜,260,17,1份,True
+dish_cnhome_ext_011,家常豆腐,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,豆腐、青椒,320,18,1份,True
+dish_hand_torn_cabbage,手撕包菜,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,包菜、辣椒、洋葱,260,16,1份,True
+dish_cnhome_ext_013,木耳炒鸡蛋,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,鸡蛋、菌菇,260,17,1份,True
+dish_tomato_scrambled_egg,番茄炒蛋,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,鸡蛋、番茄、洋葱,310,18,1份,True
+dish_cnhome_ext_016,番茄豆腐,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,豆腐、番茄,240,17,1份,True
+dish_cnhome_ext_012,蒜蓉西兰花,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,西兰花、洋葱,210,16,1份,True
+dish_cnhome_ext_019,蒜香四季豆,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,四季豆、洋葱,230,16,1份,True
+dish_broccoli_mushroom,西兰花炒菌菇,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,西兰花、菌菇、洋葱,220,18,1份,True
+dish_cnhome_ext_014,醋溜白菜,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,包菜、洋葱,180,15,1份,True
+dish_cnhome_ext_015,青椒土豆丝,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,青椒、土豆,220,16,1份,True
+dish_cnhome_ext_017,香菇青菜,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_vegetable,家常中餐-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,包菜、菌菇,210,16,1份,True
+dish_cnhome_ext_025,家常炒面,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_mixed,荤素皆可,meal_lunch,meal_dinner / meal_lunch,面条、包菜、鸡蛋,560,17,1盘,True
+dish_yangzhou_fried_rice,扬州炒饭,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_mixed,荤素皆可,meal_lunch,meal_lunch,米饭、鸡蛋、火腿、虾仁,640,22,1盘,True
+dish_tomato_beef_noodle,番茄牛肉面,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_meat,肉类,meal_lunch,meal_lunch,牛肉、面条、番茄,560,24,1碗,True
+dish_cnhome_ext_024,肉末拌面,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,面条、猪肉馅,520,18,1碗,True
+dish_cnhome_ext_020,蛋炒饭,cuisine_cn,中餐,region_china,中国,cat_staple,主食,subcat_cn_noodle,家常中餐-面饭粉类,diet_vegetarian,素食,meal_lunch,meal_breakfast / meal_lunch,鸡蛋、米饭,520,16,1盘,True
+dish_cnbj_ext_005,京味爆肚,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,671,27,1份,True
+dish_jingjiang_pork_rice,京酱肉丝饭,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、米饭、黄瓜,620,28,1份,True
+dish_cnbj_ext_001,涮羊肉,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,羊肉、瘦肉,673,19,1份,True
+dish_cnbj_ext_007,炙子烤肉,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,566,20,1份,True
+dish_cnbj_ext_010,糟熘三白,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,797,33,1份,True
+dish_cnbj_ext_002,老北京卤煮,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,566,20,1份,True
+dish_cnbj_ext_008,芥末鸭掌,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸭肉、洋葱,553,33,1份,True
+dish_cnbj_ext_004,褡裢火烧,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,629,27,1份,True
+dish_cnbj_ext_006,酱爆鸡丁,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、洋葱,633,39,1份,True
+dish_cnbj_ext_009,醋溜木须,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,618,26,1份,True
+dish_cnbj_ext_017,京味馄饨,cuisine_cn,中餐,region_china_beijing,北京,cat_staple,主食,subcat_cn_beijing_staple,京菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,米饭、洋葱,731,19,1份,True
+dish_cnbj_ext_020,卤肉火烧,cuisine_cn,中餐,region_china_beijing,北京,cat_staple,主食,subcat_cn_beijing_staple,京菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、米饭,655,29,1份,True
+dish_cnbj_ext_019,打卤面,cuisine_cn,中餐,region_china_beijing,北京,cat_staple,主食,subcat_cn_beijing_staple,京菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,面条、洋葱,773,25,1份,True
+dish_cnbj_ext_011,炒疙瘩,cuisine_cn,中餐,region_china_beijing,北京,cat_staple,主食,subcat_cn_beijing_staple,京菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,米饭、洋葱,772,18,1份,True
+dish_zhajiangmian,炸酱面,cuisine_cn,中餐,region_china_beijing,北京,cat_staple,主食,subcat_cn_beijing_staple,京菜-面饭类,diet_meat,肉类,meal_lunch,meal_lunch,面条、猪肉馅、黄瓜,590,20,1碗,True
+dish_cnbj_ext_014,糊塌子,cuisine_cn,中餐,region_china_beijing,北京,cat_staple,主食,subcat_cn_beijing_staple,京菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,米饭、洋葱,706,22,1份,True
+dish_cnbj_ext_015,驴肉火烧,cuisine_cn,中餐,region_china_beijing,北京,cat_staple,主食,subcat_cn_beijing_staple,京菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、米饭,647,23,1份,True
+dish_charsiu_rice,叉烧饭,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、米饭,680,28,1份,True
+dish_cngd_ext_017,啫啫牛肉煲,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、瘦肉、米饭,536,28,1份,True
+dish_cngd_ext_016,啫啫鸡煲,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、米饭,677,19,1份,True
+dish_cngd_ext_020,广式烧乳鸽,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,乳鸽、米饭,741,33,1份,True
+dish_cngd_ext_019,椒盐虾,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,虾仁、辣椒、米饭,544,22,1份,True
+dish_cngd_ext_018,椒盐鲜鱿,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,辣椒、米饭,709,21,1份,True
+dish_cngd_ext_014,清蒸鲈鱼,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、米饭,373,39,1份,True
+dish_cngd_ext_011,烧味双拼饭,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,米饭、洋葱,611,25,1份,True
+dish_roast_goose_rice,烧鹅饭,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸭肉、米饭,760,35,1份,True
+dish_cngd_ext_012,玫瑰豉油鸡饭,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、米饭,643,27,1份,True
+dish_white_cut_chicken_rice,白切鸡饭,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、米饭,620,26,1份,True
+dish_cngd_ext_013,白灼虾,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,虾仁、米饭,539,33,1份,True
+dish_cngd_ext_015,豉汁蒸排骨,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_roast,粤菜-烧味饭,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,五花肉、米饭,704,18,1份,True
+dish_cngd_ext_002,干炒牛河,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、米饭,638,28,1份,True
+dish_cngd_ext_005,梅菜扣肉饭,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、米饭,582,22,1份,True
+dish_cngd_ext_007,烧鸭饭,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸭肉、米饭,773,25,1份,True
+dish_beef_chow_fun,牛肉炒河粉,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,牛肉、米线、洋葱,620,24,1份,True
+dish_cngd_ext_009,牛腩粉,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、米线,685,19,1份,True
+dish_claypot_rice,腊味煲仔饭,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,米饭、香肠、鸡蛋,710,29,1份,True
+dish_cngd_ext_004,腊肠煲仔饭,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,猪大肠、米饭,605,31,1份,True
+dish_cngd_ext_008,蜜汁叉烧面,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,面条、洋葱,607,27,1份,True
+dish_cngd_ext_003,豉汁排骨饭,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,五花肉、米饭,545,27,1份,True
+dish_cngd_ext_006,豉油鸡饭,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、米饭,764,26,1份,True
+dish_cngd_ext_001,鲜虾云吞面,cuisine_cn,中餐,region_china_guangdong,广东,cat_staple,主食,subcat_cn_cantonese_staple,粤菜-面饭类,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,虾仁、面条,543,39,1份,True
+dish_cnhn_ext_002,东安子鸡,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、洋葱,566,32,1份,True
+dish_cnhn_ext_012,农家一碗香,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,610,18,1份,True
+dish_hunan_farm_pork_rice,农家小炒肉饭,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,青椒、辣椒、五花肉、米饭,690,28,1份,True
+dish_cnhn_ext_014,剁椒排骨,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,五花肉、辣椒,557,19,1份,True
+dish_cnhn_ext_001,剁椒鱼头,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、辣椒,451,39,1份,True
+dish_cnhn_ext_009,啤酒鸭,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸭肉、洋葱,515,23,1份,True
+dish_cnhn_ext_013,小炒拆骨肉,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,568,36,1份,True
+dish_hunan_stir_beef_rice,小炒黄牛肉饭,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、青椒、辣椒、米饭,670,30,1份,True
+dish_cnhn_ext_008,干锅牛蛙,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛蛙、牛肉,523,37,1份,True
+dish_cnhn_ext_003,永州血鸭,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸭肉、洋葱,547,31,1份,True
+dish_cnhn_ext_010,泡椒牛肉,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、辣椒、瘦肉,631,39,1份,True
+dish_cnhn_ext_015,脆椒鸡胗,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、辣椒,752,24,1份,True
+dish_cnhn_ext_004,腊味合蒸,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,605,25,1份,True
+dish_cnhn_ext_005,辣椒炒肉,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、辣椒,752,32,1份,True
+dish_cnhn_ext_007,酸豆角肉末,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,548,38,1份,True
+dish_cnhn_ext_011,金钱蛋,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,621,29,1份,True
+dish_cnhn_ext_006,香干炒肉,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_meat,湘菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,582,38,1份,True
+dish_cnhn_ext_023,农家煎豆腐,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,豆腐、洋葱,270,20,1份,True
+dish_cnhn_ext_019,剁椒茄子,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,茄子、辣椒,371,21,1份,True
+dish_cnhn_ext_017,外婆菜炒鸡蛋,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、鸡蛋、豆腐,438,20,1份,True
+dish_cnhn_ext_021,干锅花菜,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,西兰花、洋葱,400,18,1份,True
+dish_cnhn_ext_016,擂椒皮蛋,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,辣椒、瘦肉,621,31,1份,True
+dish_hunan_eggplant,擂椒茄子,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,辣椒、茄子、洋葱,230,18,1份,True
+dish_cnhn_ext_026,擂椒豆腐,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,豆腐、辣椒,266,24,1份,True
+dish_cnhn_ext_027,椒香豆皮,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,豆腐、辣椒,291,29,1份,True
+dish_cnhn_ext_025,湘味炒时蔬,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,799,33,1份,True
+dish_cnhn_ext_029,蒜香空心菜,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,包菜、洋葱,314,28,1份,True
+dish_cnhn_ext_030,豉椒南瓜,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,辣椒、瘦肉、南瓜,622,32,1份,True
+dish_cnhn_ext_028,酸辣土豆丝,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,土豆、洋葱,421,27,1份,True
+dish_cnhn_ext_020,酸辣白菜,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,包菜、洋葱,380,18,1份,True
+dish_hunan_lotus_root,酸辣藕片,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,辣椒、莲藕,190,16,1份,True
+dish_cnhn_ext_022,青椒炒腐竹,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,豆腐、青椒、辣椒,419,29,1份,True
+dish_cnhn_ext_024,香辣藕丁,cuisine_cn,中餐,region_china_hunan,湖南,cat_main_dish,主菜,subcat_cn_hunan_vegetable,湘菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,莲藕、豆腐,302,16,1份,True
+dish_cndb_ext_008,东北炖牛肉,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、瘦肉,589,23,1份,True
+dish_cndb_ext_007,东北酱骨头,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,608,36,1份,True
+dish_cndb_ext_009,农家一锅出,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,753,27,1份,True
+dish_cndb_ext_015,小鸡蘑菇炖粉条,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、菌菇、米线,552,38,1份,True
+dish_cndb_ext_006,排骨炖豆角,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,五花肉、洋葱,776,26,1份,True
+dish_cndb_ext_003,杀猪菜,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,550,38,1份,True
+dish_cndb_ext_001,溜肉段,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,634,20,1份,True
+dish_cndb_ext_011,猪肉白菜炖粉条,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、包菜、米线,684,20,1份,True
+dish_cndb_ext_014,白菜汆白肉,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、包菜,645,29,1份,True
+dish_cndb_ext_012,红烧鲤鱼锅,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、洋葱,590,24,1份,True
+dish_cndb_ext_010,酱炖大骨,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,630,30,1份,True
+dish_cndb_ext_002,酸菜白肉锅,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、酸菜,703,31,1份,True
+dish_cndb_ext_004,铁锅炖大鹅,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鹅肉、洋葱,552,22,1份,True
+dish_cndb_ext_005,铁锅炖鱼,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、洋葱,392,24,1份,True
+dish_guobaorou_rice,锅包肉饭,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、米饭,740,29,1份,True
+dish_cndb_ext_013,锅贴排骨,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,五花肉、洋葱,659,27,1份,True
+dish_cndb_ext_021,东北大拉皮,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,561,33,1份,True
+dish_disanxian,地三鲜,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,茄子、土豆、洋葱,460,20,1份,True
+dish_cndb_ext_018,小葱拌豆腐,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,豆腐、洋葱,418,16,1份,True
+dish_cndb_ext_016,尖椒干豆腐,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,豆腐、辣椒,224,14,1份,True
+dish_cndb_ext_019,拔丝地瓜,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,733,25,1份,True
+dish_cndb_ext_030,杀猪烩菜,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,655,35,1份,True
+dish_cndb_ext_023,炒酸菜,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,酸菜、瘦肉,774,18,1份,True
+dish_cndb_ext_029,豆角焖面,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,面条、瘦肉,496,28,1份,True
+dish_cndb_ext_017,酸菜炖粉条,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,酸菜、瘦肉、米线,564,24,1份,True
+dish_cndb_ext_026,酸菜饺子,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,酸菜、面皮、瘦肉,702,30,1份,True
+dish_cndb_ext_024,锅烙土豆片,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,土豆、洋葱,286,24,1份,True
+dish_cndb_ext_027,雪衣豆沙,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,780,20,1份,True
+dish_cndb_ext_028,韭菜盒子,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,523,27,1份,True
+dish_lu_yipin_tofu,一品豆腐,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_mixed,荤素皆可,meal_lunch,meal_dinner / meal_lunch,豆腐、鸡蛋、虾仁,390,24,1份,True
+dish_cnsd_ext_007,奶汤白菜,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,包菜、奶油,339,17,1份,True
+dish_cnsd_ext_001,奶汤蒲菜,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,奶油、瘦肉,776,34,1份,True
+dish_dezhou_braised_chicken_rice,德州扒鸡饭,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、米饭,640,30,1份,True
+dish_cnsd_ext_024,扒肘子,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,五花肉、洋葱,566,26,1份,True
+dish_cnsd_ext_011,木须肉山东版,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,545,35,1份,True
+dish_cnsd_ext_009,温拌腰丝,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,猪腰、洋葱,546,32,1份,True
+dish_cnsd_ext_006,溜黄菜,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,796,38,1份,True
+dish_cnsd_ext_002,炸八块,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,538,26,1份,True
+dish_cnsd_ext_025,烧二冬,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,菌菇、洋葱,719,39,1份,True
+dish_cnsd_ext_004,爆三样,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,486,30,1份,True
+dish_sweet_sour_tenderloin_rice,糖醋里脊饭,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、米饭,700,28,1份,True
+dish_cnsd_ext_023,糟熘鸡片,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、洋葱,483,23,1份,True
+dish_cnsd_ext_010,诗礼银杏,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,豌豆、豆腐,296,22,1份,True
+dish_cnsd_ext_005,软炸里脊,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,733,35,1份,True
+dish_lu_pan_fried_tofu,锅塌豆腐,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,鸡蛋、豆腐,340,20,1份,True
+dish_cnsd_ext_026,锅烧鸡,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、洋葱,633,33,1份,True
+dish_cnsd_ext_003,黄焖鸡块,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、洋葱,754,34,1份,True
+dish_cnsd_ext_014,乌鱼蛋汤,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、洋葱,519,41,1份,True
+dish_cnsd_ext_017,扒原壳鲍鱼,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、洋葱,605,41,1份,True
+dish_cnsd_ext_028,油爆双脆,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,705,25,1份,True
+dish_cnsd_ext_015,油爆海螺,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、洋葱,552,26,1份,True
+dish_cnsd_ext_027,清汤全家福,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,530,30,1份,True
+dish_cnsd_ext_020,清蒸海鲈,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鱼片、瘦肉,796,36,1份,True
+dish_cnsd_ext_016,炒海肠,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,猪大肠、洋葱,649,27,1份,True
+dish_cnsd_ext_012,糖醋黄河鲤鱼,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、洋葱,588,28,1份,True
+dish_cnsd_ext_022,芙蓉虾片,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,虾仁、洋葱,431,37,1份,True
+dish_cnsd_ext_013,葱椒鱼片,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、辣椒,478,34,1份,True
+dish_cnsd_ext_021,虾仁蒸蛋,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,虾仁、洋葱,454,30,1份,True
+dish_cnsd_ext_019,醋椒鱼,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、辣椒,577,27,1份,True
+dish_cnsd_ext_018,鲅鱼水饺,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、面皮,579,29,1份,True
+dish_cnsc_ext_008,仔姜牛肉,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、瘦肉,564,24,1份,True
+dish_cnsc_ext_001,口水鸡,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、洋葱,536,24,1份,True
+dish_twice_cooked_pork_rice,回锅肉饭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,包菜、五花肉、米饭、辣椒,730,28,1份,True
+dish_cnsc_ext_005,夫妻肺片,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,647,27,1份,True
+dish_kungpao_chicken_rice,宫保鸡丁饭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_lunch,鸡腿肉、米饭、辣椒、花生,680,28,1份,True
+dish_cnsc_ext_010,干锅肥肠,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,猪大肠、洋葱,668,34,1份,True
+dish_cnsc_ext_006,樟茶鸭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸭肉、洋葱,610,24,1份,True
+dish_cnsc_ext_002,毛血旺,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,757,21,1份,True
+dish_boiled_beef_rice,水煮牛肉饭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_lunch,牛肉、米饭、辣椒,760,32,1份,True
+dish_cnsc_ext_004,泡椒牛蛙,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛蛙、牛肉、辣椒,647,27,1份,True
+dish_cnsc_ext_011,泡椒鸡杂,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、辣椒,566,22,1份,True
+dish_cnsc_ext_007,甜皮鸭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸭肉、洋葱,535,25,1份,True
+dish_cnsc_ext_009,粉蒸牛肉,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、瘦肉、米线,517,37,1份,True
+dish_laziji_rice,辣子鸡饭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、辣椒、米饭、花生,760,29,1份,True
+dish_cnsc_ext_012,香辣兔丁,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,561,35,1份,True
+dish_cnsc_ext_003,麻辣香锅,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,796,36,1份,True
+dish_dandan_noodle,担担面,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_mixed,荤素皆可,meal_lunch,meal_breakfast / meal_dinner / meal_lunch,面条、猪肉馅、辣椒、花生,540,18,1碗,True
+dish_chili_wonton,红油抄手,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_mixed,荤素皆可,meal_lunch,meal_dinner / meal_lunch,面皮、猪肉馅、辣椒,420,17,1份,True
+dish_zhong_dumpling,钟水饺,cuisine_cn,中餐,region_china_sichuan,四川,cat_snack,小吃,subcat_cn_sichuan_snack,川菜-小吃,diet_mixed,荤素皆可,meal_lunch,meal_dinner / meal_lunch,面皮、猪肉馅、辣椒,460,18,1份,True
+dish_cnsc_ext_015,凉拌木耳,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,菌菇、豆腐,296,14,1份,True
+dish_cnsc_ext_013,干锅花菜,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,西兰花、洋葱,400,18,1份,True
+dish_cnsc_ext_019,炝拌土豆丝,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,土豆、洋葱,331,25,1份,True
+dish_spicy_cabbage_rice,炝炒包菜饭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,包菜、米饭、辣椒,390,17,1份,True
+dish_cnsc_ext_017,蒜蓉空心菜,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,包菜、洋葱,266,28,1份,True
+dish_cnsc_ext_016,虎皮青椒,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,青椒、辣椒、瘦肉,640,24,1份,True
+dish_cnsc_ext_018,豆瓣圆白菜,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,包菜、洋葱,400,22,1份,True
+dish_hot_sour_potato_rice,酸辣土豆丝饭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,土豆、米饭、辣椒、洋葱,430,18,1份,True
+dish_cnsc_ext_020,酸辣白菜,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,包菜、洋葱,380,18,1份,True
+dish_cnsc_ext_014,麻辣豆腐,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,豆腐、洋葱,340,18,1份,True
+dish_cumin_lamb_rice,孜然羊肉饭,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,羊肉、米饭、洋葱,710,31,1份,True
+dish_cnxj_ext_003,手抓羊肉,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,羊肉、瘦肉,593,31,1份,True
+dish_cnxj_ext_015,手抓肉拼盘,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、洋葱,667,23,1份,True
+dish_cnxj_ext_005,椒麻鸡,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、辣椒,654,34,1份,True
+dish_cnxj_ext_010,炒烤肉拌饭,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、米饭,792,22,1份,True
+dish_cnxj_ext_009,烤牛肉串套餐,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、瘦肉,513,31,1份,True
+dish_cnxj_ext_004,烤羊排,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,羊肉、洋葱,480,26,1份,True
+dish_cnxj_ext_014,烤羊腿,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,羊肉、洋葱,781,31,1份,True
+dish_cnxj_ext_013,烤鱼块,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,鱼片、洋葱,419,43,1份,True
+dish_cnxj_ext_008,皮牙子炒羊肉,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,羊肉、瘦肉,604,36,1份,True
+dish_cnxj_ext_006,胡辣羊蹄,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,羊肉、洋葱,754,32,1份,True
+dish_cnxj_ext_012,馕丁炒鸡,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、薄饼,745,35,1份,True
+dish_cnxj_ext_007,馕坑肉,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、薄饼,655,37,1份,True
+dish_cnxj_ext_017,丁丁炒面,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,面条、洋葱,650,32,1份,True
+dish_cnxj_ext_025,丸子汤,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,米饭、洋葱,688,30,1份,True
+dish_cnxj_ext_029,奶皮子馕,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,奶油、薄饼,537,21,1份,True
+dish_cnxj_ext_026,手工拉条子,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,米饭、洋葱,570,22,1份,True
+dish_xinjiang_pilaf,新疆抓饭,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,羊肉、米饭、胡萝卜,680,28,1份,True
+dish_cnxj_ext_016,新疆拌面,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,面条、洋葱,564,32,1份,True
+dish_cnxj_ext_030,炒拨拉,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,米饭、洋葱,647,29,1份,True
+dish_cnxj_ext_020,炒米粉,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,米线、洋葱,778,20,1份,True
+dish_cnxj_ext_027,牛肉拌面,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、瘦肉、面条,646,28,1份,True
+dish_cnxj_ext_023,碎肉抓饭,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、米饭,619,29,1份,True
+dish_cnxj_ext_019,米肠子,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,猪大肠、米饭,543,35,1份,True
+dish_cnxj_ext_024,辣皮子拌面,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,面条、洋葱,655,27,1份,True
+dish_oily_noodle_beef,过油肉拌面,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,牛肉、面条、青椒、洋葱,650,26,1碗,True
+dish_cnxj_ext_022,过油肉盖饭,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、米饭,584,24,1份,True
+dish_cnxj_ext_018,面肺子,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,面条、洋葱,704,26,1份,True
+dish_cnxj_ext_021,黄面烤肉,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_staple,主食,subcat_cn_xinjiang_staple,新疆菜-主食,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,瘦肉、面条,543,29,1份,True
+dish_miso_ramen,味噌拉面,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_noodle,日料-面类,diet_mixed,荤素皆可,meal_lunch,meal_dinner / meal_lunch,味噌、面条、鸡蛋,620,28,1碗,True
+dish_curry_udon,咖喱乌冬,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_noodle,日料-面类,diet_mixed,荤素皆可,meal_lunch,meal_dinner / meal_lunch,咖喱酱、乌冬面、鸡腿肉,590,27,1碗,True
+dish_oyakodon,亲子丼,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_meat,肉类,meal_lunch,meal_lunch,鸡腿肉、鸡蛋、米饭,570,28,1份,True
+dish_omurice_curry,咖喱蛋包饭,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_mixed,荤素皆可,meal_lunch,meal_dinner / meal_lunch,咖喱酱、鸡蛋、米饭、鸡腿肉,580,27,1份,True
+dish_teriyaki_chicken_rice,照烧鸡腿饭,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_meat,肉类,meal_lunch,meal_lunch,鸡腿肉、米饭、西兰花,640,28,1份,True
+dish_gyudon,牛丼饭,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_meat,肉类,meal_lunch,meal_lunch,牛肉、米饭、洋葱,610,30,1份,True
+dish_tofu_bento,素食豆腐便当,cuisine_jp,日料,region_japan,日本,cat_main_dish,主菜,subcat_jp_small_plate,日料-定食/小料理,diet_vegetarian,素食,meal_lunch,meal_lunch,米饭、豆腐、西兰花,420,22,1盒,True
+dish_salmon_poke_bowl,三文鱼波奇饭,cuisine_jp,日料,region_japan,日本,cat_salad,轻食碗/沙拉,subcat_light_bowl,轻食-能量碗,diet_seafood,海鲜,meal_lunch,meal_lunch,米饭、三文鱼、牛油果、毛豆,520,34,1碗,True
+dish_bibimbap,石锅拌饭,cuisine_kr,韩餐,region_korea,韩国,cat_main_dish,主菜,subcat_kr_main,韩餐-主菜,diet_mixed,荤素皆可,meal_lunch,meal_lunch,牛肉、米饭、鸡蛋、泡菜,610,29,1份,True
+dish_spicy_pork_rice,辣炒猪肉饭,cuisine_kr,韩餐,region_korea,韩国,cat_main_dish,主菜,subcat_kr_main,韩餐-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,泡菜、五花肉、米饭、辣椒,690,27,1份,True
+dish_kimchi_fried_rice,泡菜炒饭,cuisine_kr,韩餐,region_korea,韩国,cat_snack,小吃,subcat_kr_snack,韩餐-小吃,diet_mixed,荤素皆可,meal_lunch,meal_dinner / meal_lunch,泡菜、米饭、鸡蛋、午餐肉,560,21,1份,True
+dish_gimbap,紫菜包饭,cuisine_kr,韩餐,region_korea,韩国,cat_snack,小吃,subcat_kr_snack,韩餐-小吃,diet_mixed,荤素皆可,meal_lunch,meal_lunch,米饭、海苔、黄瓜、鸡蛋,420,17,1份,True
+dish_cheese_ramen,芝士拉面,cuisine_kr,韩餐,region_korea,韩国,cat_snack,小吃,subcat_kr_snack,韩餐-小吃,diet_mixed,荤素皆可,meal_lunch,meal_dinner / meal_lunch,芝士、面条、鸡蛋,510,19,1碗,True
+dish_tuna_quinoa_bowl,金枪鱼藜麦碗,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_bowl,轻食-能量碗,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,藜麦、金枪鱼、黄瓜、毛豆,430,28,1碗,True
+dish_chicken_rice_bowl,鸡胸糙米碗,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_bowl,轻食-能量碗,diet_meat,肉类,meal_lunch,meal_lunch,鸡胸肉、米饭、西兰花,430,26,1碗,True
+dish_salmon_protein_box,三文鱼蛋白盒,cuisine_light,轻食,region_global,全球通用,cat_main_dish,主菜,subcat_light_protein,轻食-高蛋白主菜,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,三文鱼、毛豆、鸡蛋,390,31,1盒,True
+dish_chicken_protein_box,水煮鸡胸蔬菜盒,cuisine_light,轻食,region_global,全球通用,cat_main_dish,主菜,subcat_light_protein,轻食-高蛋白主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡胸肉、西兰花、鸡蛋,350,24,1盒,True
+dish_chicken_caesar_salad,凯撒鸡肉沙拉,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_salad,轻食-沙拉,diet_meat,肉类,meal_lunch,meal_lunch,鸡胸肉、生菜、芝士,390,26,1份,True
+dish_shrimp_avocado_salad,虾仁牛油果沙拉,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_salad,轻食-沙拉,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,牛油果、虾仁、生菜,330,29,1份,True
+dish_tofu_veggie_salad,豆腐蔬菜沙拉,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_salad,轻食-沙拉,diet_vegetarian,素食,meal_lunch,meal_dinner / meal_lunch,生菜、豆腐、黄瓜、番茄,280,20,1份,True
+dish_tuna_salad,金枪鱼沙拉,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_salad,轻食-沙拉,diet_seafood,海鲜,meal_lunch,meal_lunch,生菜、金枪鱼、番茄,360,24,1份,True
+dish_basil_beef_rice,泰式罗勒牛肉饭,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_main_dish,主菜,subcat_sea_main,东南亚-主菜,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,牛肉、米饭、辣椒、洋葱,650,28,1份,True
+dish_shrimp_fried_rice_sea,泰式虾仁炒饭,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_main_dish,主菜,subcat_sea_main,东南亚-主菜,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,米饭、虾仁、鸡蛋,590,26,1份,True
+dish_hainan_chicken_rice,海南鸡饭,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_main_dish,主菜,subcat_sea_main,东南亚-主菜,diet_meat,肉类,meal_lunch,meal_lunch,鸡腿肉、米饭、黄瓜,620,27,1份,True
+dish_vietnamese_chicken_rice,越式鸡肉饭,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_main_dish,主菜,subcat_sea_main,东南亚-主菜,diet_meat,肉类,meal_lunch,meal_dinner / meal_lunch,鸡腿肉、米饭、黄瓜,540,24,1份,True
+dish_tom_yum_noodle,冬阴功米线,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_staple,主食,subcat_sea_noodle,东南亚-面粉类,diet_seafood,海鲜,meal_lunch,meal_lunch,米线、虾仁、辣椒、菌菇,480,26,1碗,True
+dish_coconut_curry_noodle,椰香咖喱米线,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_staple,主食,subcat_sea_noodle,东南亚-面粉类,diet_mixed,荤素皆可,meal_lunch,meal_dinner / meal_lunch,椰奶、咖喱酱、米线、鸡腿肉,520,23,1碗,True
+dish_pad_thai,泰式炒河粉,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_staple,主食,subcat_sea_noodle,东南亚-面粉类,diet_seafood,海鲜,meal_lunch,meal_dinner / meal_lunch,米线、虾仁、鸡蛋、花生,560,25,1份,True
+dish_pho_beef,越南牛肉粉,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_staple,主食,subcat_sea_noodle,东南亚-面粉类,diet_meat,肉类,meal_lunch,meal_lunch,牛肉、米线、洋葱,500,26,1碗,True
+dish_baked_chicken_rice,焗烤鸡肉饭,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_pasta,西式-意面焗饭,diet_mixed,荤素皆可,meal_lunch,meal_lunch / meal_dinner,芝士、鸡腿肉、米饭,620,28,1份,True
+dish_bolognese_pasta,番茄肉酱意面,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_pasta,西式-意面焗饭,diet_meat,肉类,meal_lunch,meal_lunch,牛肉、意面、番茄,620,28,1盘,True
+dish_shrimp_tofu_pot,虾仁豆腐煲,cuisine_cn,中餐,region_china,中国,cat_main_dish,主菜,subcat_cn_home_meat,家常中餐-肉类,diet_seafood,海鲜,meal_dinner,meal_dinner,虾仁、豆腐、菌菇,430,30,1锅,True
+dish_peking_duck_set,北京烤鸭卷套餐,cuisine_cn,中餐,region_china_beijing,北京,cat_main_dish,主菜,subcat_cn_beijing_main,京菜-主菜,diet_meat,肉类,meal_dinner,meal_dinner / meal_lunch,鸭肉、薄饼、黄瓜,760,42,1份,True
+dish_chicken_mushroom_stew_rice,小鸡炖蘑菇饭,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_meat,东北菜-肉类,diet_meat,肉类,meal_dinner,meal_dinner / meal_lunch,鸡腿肉、菌菇、米饭,690,27,1份,True
+dish_northeast_stew,东北乱炖,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_mixed,荤素皆可,meal_dinner,meal_dinner / meal_lunch,包菜、土豆、四季豆,420,22,1份,True
+dish_pork_vermicelli,猪肉炖粉条,cuisine_cn,中餐,region_china_northeast,东北,cat_main_dish,主菜,subcat_cn_northeast_stew,东北菜-炖菜,diet_meat,肉类,meal_dinner,meal_dinner / meal_lunch,粉条、五花肉、包菜,650,26,1份,True
+dish_lu_jiuzhuan_intestine,九转大肠,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_dinner,meal_dinner / meal_lunch,猪大肠、洋葱,690,36,1份,True
+dish_lu_kidney_stirfry,爆炒腰花,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_dinner,meal_dinner / meal_lunch,猪腰、青椒、洋葱,520,32,1份,True
+dish_lu_scallion_tendon,葱烧蹄筋,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_main,鲁菜-主菜,diet_meat,肉类,meal_dinner,meal_dinner,牛筋、洋葱,470,42,1份,True
+dish_lu_braised_prawn,油焖大虾,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_dinner,meal_dinner / meal_lunch,虾仁、洋葱,430,38,1份,True
+dish_cnsd_ext_030,海米扒白菜,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_dinner,meal_dinner / meal_lunch,包菜、洋葱,561,27,1份,True
+dish_lu_fried_oyster,炸蛎黄,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_dinner,meal_dinner / meal_lunch,牡蛎、鸡蛋,520,34,1份,True
+dish_sweet_sour_carp_set,糖醋鲤鱼套餐,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_dinner,meal_dinner / meal_lunch,鱼片、米饭,590,36,1份,True
+dish_lu_sweet_sour_fish_slice,糟溜鱼片,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_dinner,meal_dinner / meal_lunch,鱼片、菌菇,360,32,1份,True
+dish_scallion_sea_cucumber,葱烧海参,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_dinner,meal_dinner,洋葱、海参,350,68,1份,True
+dish_cnsd_ext_029,鲁式熘虾仁,cuisine_cn,中餐,region_china_shandong,山东,cat_main_dish,主菜,subcat_cn_lu_seafood,鲁菜-海鲜,diet_seafood,海鲜,meal_dinner,meal_dinner / meal_lunch,虾仁、洋葱,371,37,1份,True
+dish_boiled_fish_rice,水煮鱼饭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_seafood,海鲜,meal_dinner,meal_dinner / meal_lunch,辣椒、鱼片、米饭、包菜,710,31,1份,True
+dish_pickled_fish_rice,酸菜鱼饭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_meat,川菜-肉类,diet_seafood,海鲜,meal_dinner,meal_dinner,鱼片、米饭、酸菜,690,36,1份,True
+dish_dryfried_beans_rice,干煸四季豆饭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_vegetarian,素食,meal_dinner,meal_dinner,四季豆、米饭、辣椒,520,21,1份,True
+dish_yuxiang_eggplant_rice,鱼香茄子饭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_mixed,荤素皆可,meal_dinner,meal_dinner,茄子、米饭、猪肉馅,590,22,1份,True
+dish_mapo_tofu_rice,麻婆豆腐饭,cuisine_cn,中餐,region_china_sichuan,四川,cat_main_dish,主菜,subcat_cn_sichuan_vegetable,川菜-素菜,diet_mixed,荤素皆可,meal_dinner,meal_dinner,米饭、豆腐、辣椒、猪肉馅,610,23,1份,True
+dish_big_plate_chicken,大盘鸡,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,鸡腿肉、土豆、面条,820,35,1份,True
+dish_lamb_skewer_set,烤羊肉串套餐,cuisine_cn,中餐,region_china_xinjiang,新疆,cat_main_dish,主菜,subcat_cn_xinjiang_grill,新疆菜-肉类,diet_meat,肉类,meal_dinner,meal_dinner / meal_lunch,羊肉、米饭,760,34,1份,True
+dish_beef_udon,牛肉乌冬面,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_noodle,日料-面类,diet_meat,肉类,meal_dinner,meal_dinner,牛肉、乌冬面、洋葱,560,29,1碗,True
+dish_tonkotsu_ramen,豚骨拉面,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_noodle,日料-面类,diet_meat,肉类,meal_dinner,meal_dinner,面条、五花肉、鸡蛋,690,32,1碗,True
+dish_sukiyaki_rice,寿喜锅饭,cuisine_jp,日料,region_japan,日本,cat_main_dish,主菜,subcat_jp_small_plate,日料-定食/小料理,diet_meat,肉类,meal_dinner,meal_dinner,牛肉、米饭、洋葱、豆腐,580,33,1份,True
+dish_grilled_fish_set,盐烤鱼定食,cuisine_jp,日料,region_japan,日本,cat_main_dish,主菜,subcat_jp_small_plate,日料-定食/小料理,diet_seafood,海鲜,meal_dinner,meal_dinner / meal_lunch,鱼片、米饭、味噌,520,32,1份,True
+dish_tofu_hamburg_set,豆腐汉堡排定食,cuisine_jp,日料,region_japan,日本,cat_main_dish,主菜,subcat_jp_small_plate,日料-定食/小料理,diet_mixed,荤素皆可,meal_dinner,meal_dinner / meal_lunch,牛肉、豆腐、洋葱、米饭,560,30,1份,True
+dish_kimchi_beef_pot,泡菜肥牛锅,cuisine_kr,韩餐,region_korea,韩国,cat_main_dish,主菜,subcat_kr_main,韩餐-主菜,diet_meat,肉类,meal_dinner,meal_dinner / meal_lunch,牛肉、泡菜、豆腐,640,31,1锅,True
+dish_korean_fried_chicken_rice,韩式炸鸡饭,cuisine_kr,韩餐,region_korea,韩国,cat_main_dish,主菜,subcat_kr_main,韩餐-主菜,diet_meat,肉类,meal_dinner,meal_dinner,鸡腿肉、米饭、辣椒,710,31,1份,True
+dish_budae_jjigae,韩式部队锅,cuisine_kr,韩餐,region_korea,韩国,cat_main_dish,主菜,subcat_kr_main,韩餐-主菜,diet_meat,肉类,meal_dinner,meal_dinner,香肠、午餐肉、泡菜、面条,750,35,1锅,True
+dish_tteokbokki,辣炒年糕,cuisine_kr,韩餐,region_korea,韩国,cat_snack,小吃,subcat_kr_snack,韩餐-小吃,diet_vegetarian,素食,meal_dinner,meal_dinner,辣椒、年糕,480,18,1份,True
+dish_quinoa_veggie_bowl,藜麦烤蔬菜碗,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_bowl,轻食-能量碗,diet_vegetarian,素食,meal_dinner,meal_dinner,藜麦、西兰花、鹰嘴豆、南瓜,410,27,1碗,True
+dish_shrimp_protein_box,虾仁蛋白盒,cuisine_light,轻食,region_global,全球通用,cat_main_dish,主菜,subcat_light_protein,轻食-高蛋白主菜,diet_seafood,海鲜,meal_dinner,meal_dinner,鸡蛋、虾仁、西兰花,390,29,1份,True
+dish_panfried_chicken_pumpkin,香煎鸡胸配南瓜,cuisine_light,轻食,region_global,全球通用,cat_main_dish,主菜,subcat_light_protein,轻食-高蛋白主菜,diet_meat,肉类,meal_dinner,meal_dinner,鸡胸肉、西兰花、南瓜,410,27,1份,True
+dish_green_curry_chicken,泰式绿咖喱鸡,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_main_dish,主菜,subcat_sea_main,东南亚-主菜,diet_meat,肉类,meal_dinner,meal_dinner,鸡腿肉、咖喱酱、米饭、椰奶,630,32,1份,True
+dish_laksa_seafood,叻沙海鲜面,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_staple,主食,subcat_sea_noodle,东南亚-面粉类,diet_seafood,海鲜,meal_dinner,meal_dinner,米线、虾仁、辣椒、椰奶,590,30,1碗,True
+dish_salmon_veggie_plate,煎三文鱼配蔬菜,cuisine_west,西式,region_europe_america,欧美,cat_main_dish,主菜,subcat_west_main,西式-主菜,diet_seafood,海鲜,meal_dinner,meal_dinner,三文鱼、西兰花、南瓜,470,38,1份,True
+dish_steak_veggies,牛排配蔬菜,cuisine_west,西式,region_europe_america,欧美,cat_main_dish,主菜,subcat_west_main,西式-主菜,diet_meat,肉类,meal_dinner,meal_dinner,牛肉、西兰花、南瓜,540,48,1份,True
+dish_herb_roast_chicken,香草烤鸡,cuisine_west,西式,region_europe_america,欧美,cat_main_dish,主菜,subcat_west_main,西式-主菜,diet_meat,肉类,meal_dinner,meal_dinner / meal_lunch,鸡腿肉、西兰花、番茄,520,32,1份,True
+dish_black_pepper_beef,黑椒牛排配土豆,cuisine_west,西式,region_europe_america,欧美,cat_main_dish,主菜,subcat_west_main,西式-主菜,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,牛肉、土豆、西兰花,610,39,1份,True
+dish_seafood_pasta,海鲜意面,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_pasta,西式-意面焗饭,diet_seafood,海鲜,meal_dinner,meal_dinner,意面、虾仁、番茄,580,33,1盘,True
+dish_mushroom_cream_pasta,菌菇奶油意面,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_pasta,西式-意面焗饭,diet_vegetarian,素食,meal_dinner,meal_dinner,菌菇、意面、奶油,540,29,1盘,True
+dish_jp_ext_001,炸猪排丼,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,猪里脊、鸡蛋、米饭,760,32,1份,True
+dish_jp_ext_002,鳗鱼饭,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,鳗鱼、米饭、海苔,690,38,1份,True
+dish_jp_ext_003,天妇罗丼,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,虾仁、米饭、鸡蛋,710,33,1份,True
+dish_jp_ext_004,照烧三文鱼饭,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,三文鱼、米饭、海苔,620,34,1份,True
+dish_jp_ext_005,日式咖喱猪排饭,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,猪里脊、米饭、咖喱酱,780,34,1份,True
+dish_jp_ext_006,盐烤鲭鱼饭,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_rice,日料-饭类,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,鲭鱼、米饭、海苔,560,31,1份,True
+dish_jp_ext_007,酱油拉面,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_noodle,日料-面类,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,面条、鸡蛋、海苔,540,28,1碗,True
+dish_jp_ext_008,天妇罗乌冬,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_noodle,日料-面类,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,乌冬面、虾仁、海苔,610,31,1碗,True
+dish_jp_ext_009,冷荞麦面,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_noodle,日料-面类,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,荞麦面、黄瓜、海苔,360,22,1份,True
+dish_jp_ext_010,肉汤荞麦面,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_noodle,日料-面类,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,荞麦面、牛肉、洋葱,520,29,1碗,True
+dish_jp_ext_011,日式沾面,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_noodle,日料-面类,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,面条、鸡蛋、海苔,590,30,1份,True
+dish_jp_ext_012,狐狸乌冬,cuisine_jp,日料,region_japan,日本,cat_staple,主食,subcat_jp_noodle,日料-面类,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,乌冬面、豆腐、海苔,470,26,1碗,True
+dish_jp_ext_013,炸鸡块定食,cuisine_jp,日料,region_japan,日本,cat_main_dish,主菜,subcat_jp_small_plate,日料-定食/小料理,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,鸡腿肉、米饭、生菜,690,32,1份,True
+dish_jp_ext_014,炸猪排定食,cuisine_jp,日料,region_japan,日本,cat_main_dish,主菜,subcat_jp_small_plate,日料-定食/小料理,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,猪里脊、米饭、生菜,740,33,1份,True
+dish_jp_ext_015,姜烧猪肉定食,cuisine_jp,日料,region_japan,日本,cat_main_dish,主菜,subcat_jp_small_plate,日料-定食/小料理,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,猪里脊、洋葱、米饭,620,31,1份,True
+dish_jp_ext_016,南蛮鸡定食,cuisine_jp,日料,region_japan,日本,cat_main_dish,主菜,subcat_jp_small_plate,日料-定食/小料理,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,鸡腿肉、生菜、米饭,650,31,1份,True
+dish_jp_ext_017,鲭鱼味噌煮定食,cuisine_jp,日料,region_japan,日本,cat_main_dish,主菜,subcat_jp_small_plate,日料-定食/小料理,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,鲭鱼、味噌、米饭,560,33,1份,True
+dish_jp_ext_018,可乐饼套餐,cuisine_jp,日料,region_japan,日本,cat_main_dish,主菜,subcat_jp_small_plate,日料-定食/小料理,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,土豆、牛肉、生菜,540,27,1份,True
+dish_kr_ext_001,韩式烤牛肉饭,cuisine_kr,韩餐,region_korea,韩国,cat_main_dish,主菜,subcat_kr_main,韩餐-主菜,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,牛肉、米饭、洋葱,690,29,1份,True
+dish_kr_ext_002,韩式嫩豆腐锅,cuisine_kr,韩餐,region_korea,韩国,cat_main_dish,主菜,subcat_kr_main,韩餐-主菜,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,豆腐、辣椒、鸡蛋,410,26,1锅,True
+dish_kr_ext_003,春川辣炒鸡饭,cuisine_kr,韩餐,region_korea,韩国,cat_main_dish,主菜,subcat_kr_main,韩餐-主菜,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,鸡腿肉、辣椒、米饭,710,30,1份,True
+dish_kr_ext_004,韩式参鸡汤,cuisine_kr,韩餐,region_korea,韩国,cat_main_dish,主菜,subcat_kr_main,韩餐-主菜,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,鸡腿肉、粳米、菌菇,580,35,1盅,True
+dish_kr_ext_005,韩式牛排骨汤,cuisine_kr,韩餐,region_korea,韩国,cat_main_dish,主菜,subcat_kr_main,韩餐-主菜,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,牛肉、粉条、洋葱,560,36,1锅,True
+dish_kr_ext_006,泡菜豆腐锅,cuisine_kr,韩餐,region_korea,韩国,cat_main_dish,主菜,subcat_kr_main,韩餐-主菜,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,泡菜、豆腐、辣椒,430,24,1锅,True
+dish_kr_ext_007,韩式海鲜煎饼,cuisine_kr,韩餐,region_korea,韩国,cat_snack,小吃,subcat_kr_snack,韩餐-小吃,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,虾仁、鸡蛋、青椒,460,22,1份,True
+dish_kr_ext_008,韩式煎饺,cuisine_kr,韩餐,region_korea,韩国,cat_snack,小吃,subcat_kr_snack,韩餐-小吃,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,面皮、猪肉馅、包菜,420,18,1份,True
+dish_kr_ext_009,鱼饼汤,cuisine_kr,韩餐,region_korea,韩国,cat_snack,小吃,subcat_kr_snack,韩餐-小吃,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,鱼饼、辣椒、洋葱,280,16,1碗,True
+dish_kr_ext_010,韩式杂菜,cuisine_kr,韩餐,region_korea,韩国,cat_snack,小吃,subcat_kr_snack,韩餐-小吃,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,粉条、胡萝卜、洋葱,330,18,1份,True
+dish_kr_ext_011,糖饼,cuisine_kr,韩餐,region_korea,韩国,cat_snack,小吃,subcat_kr_snack,韩餐-小吃,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,薄饼、红豆、花生,320,14,1个,True
+dish_kr_ext_012,炸紫菜卷,cuisine_kr,韩餐,region_korea,韩国,cat_snack,小吃,subcat_kr_snack,韩餐-小吃,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,海苔、粉条、胡萝卜,360,17,1份,True
+dish_sea_ext_001,马来椰浆饭,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_main_dish,主菜,subcat_sea_main,东南亚-主菜,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,米饭、椰奶、鸡腿肉,720,28,1份,True
+dish_sea_ext_002,印尼仁当牛肉饭,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_main_dish,主菜,subcat_sea_main,东南亚-主菜,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,牛肉、米饭、椰奶,760,32,1份,True
+dish_sea_ext_003,马来咖喱鸡饭,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_main_dish,主菜,subcat_sea_main,东南亚-主菜,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,鸡腿肉、米饭、咖喱酱,700,28,1份,True
+dish_sea_ext_004,泰式菠萝炒饭,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_main_dish,主菜,subcat_sea_main,东南亚-主菜,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,米饭、虾仁、菠萝,610,27,1份,True
+dish_sea_ext_005,越式香茅猪排饭,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_main_dish,主菜,subcat_sea_main,东南亚-主菜,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,猪里脊、米饭、香茅,640,29,1份,True
+dish_sea_ext_006,印尼炒饭,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_main_dish,主菜,subcat_sea_main,东南亚-主菜,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,米饭、鸡蛋、香肠,680,26,1份,True
+dish_sea_ext_007,马来炒面,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_staple,主食,subcat_sea_noodle,东南亚-面粉类,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,面条、虾仁、包菜,590,24,1盘,True
+dish_sea_ext_008,炒粿条,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_staple,主食,subcat_sea_noodle,东南亚-面粉类,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,米线、虾仁、鸡蛋,620,25,1盘,True
+dish_sea_ext_009,泰式炒宽粉,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_staple,主食,subcat_sea_noodle,东南亚-面粉类,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,粉条、虾仁、鸡蛋,610,24,1盘,True
+dish_sea_ext_010,顺化牛肉粉,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_staple,主食,subcat_sea_noodle,东南亚-面粉类,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,米线、牛肉、辣椒,540,26,1碗,True
+dish_sea_ext_011,越式凉拌檬粉,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_staple,主食,subcat_sea_noodle,东南亚-面粉类,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,米线、黄瓜、虾仁,410,23,1份,True
+dish_sea_ext_012,新加坡咖喱米粉,cuisine_sea,东南亚,region_southeast_asia,东南亚,cat_staple,主食,subcat_sea_noodle,东南亚-面粉类,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,米线、咖喱酱、虾仁,560,24,1盘,True
+dish_west_ext_001,蒜香黄油虾配时蔬,cuisine_west,西式,region_europe_america,欧美,cat_main_dish,主菜,subcat_west_main,西式-主菜,diet_seafood,海鲜,meal_dinner,meal_lunch / meal_dinner,虾仁、奶油、西兰花,460,36,1份,True
+dish_west_ext_002,烤猪排配土豆泥,cuisine_west,西式,region_europe_america,欧美,cat_main_dish,主菜,subcat_west_main,西式-主菜,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,猪里脊、土豆、胡萝卜,710,34,1份,True
+dish_west_ext_003,炸鱼薯条,cuisine_west,西式,region_europe_america,欧美,cat_main_dish,主菜,subcat_west_main,西式-主菜,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,白身鱼、土豆,720,33,1份,True
+dish_west_ext_004,烤牛肉配胡萝卜,cuisine_west,西式,region_europe_america,欧美,cat_main_dish,主菜,subcat_west_main,西式-主菜,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,牛肉、胡萝卜、土豆,640,38,1份,True
+dish_west_ext_005,迷迭香烤羊排,cuisine_west,西式,region_europe_america,欧美,cat_main_dish,主菜,subcat_west_main,西式-主菜,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,羊肉、土豆、胡萝卜,690,39,1份,True
+dish_west_ext_006,香煎鸡腿排,cuisine_west,西式,region_europe_america,欧美,cat_main_dish,主菜,subcat_west_main,西式-主菜,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,鸡腿肉、西兰花、胡萝卜,590,31,1份,True
+dish_west_ext_007,卡邦尼意面,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_pasta,西式-意面焗饭,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,意面、火腿、鸡蛋、芝士,680,29,1盘,True
+dish_west_ext_008,青酱鸡肉意面,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_pasta,西式-意面焗饭,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,意面、鸡腿肉、菌菇,620,28,1盘,True
+dish_west_ext_009,蒜香橄榄油意面,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_pasta,西式-意面焗饭,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,意面、大蒜、菌菇,510,24,1盘,True
+dish_west_ext_010,奶油火腿意面,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_pasta,西式-意面焗饭,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,意面、火腿、奶油,650,27,1盘,True
+dish_west_ext_011,海鲜烩饭,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_pasta,西式-意面焗饭,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,米饭、虾仁、鱼片,590,31,1盘,True
+dish_west_ext_012,菌菇烩饭,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_pasta,西式-意面焗饭,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,米饭、菌菇、奶油,540,26,1盘,True
+dish_west_ext_013,法式吐司早餐盘,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_brunch,西式-早午餐,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,吐司、鸡蛋、莓果,420,24,1份,True
+dish_west_ext_014,贝果烟熏三文鱼,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_brunch,西式-早午餐,diet_seafood,海鲜,meal_breakfast,meal_breakfast / meal_lunch,贝果、三文鱼、生菜,430,29,1份,True
+dish_west_ext_015,华夫饼鸡蛋盘,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_brunch,西式-早午餐,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,华夫饼、鸡蛋、火腿,510,26,1份,True
+dish_west_ext_016,酸奶水果麦片杯,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_brunch,西式-早午餐,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,酸奶、燕麦、莓果,290,18,1杯,True
+dish_west_ext_017,早餐卷饼,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_brunch,西式-早午餐,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,薄饼、鸡蛋、火腿,460,22,1卷,True
+dish_west_ext_018,鸡肉牛油果贝果,cuisine_west,西式,region_europe_america,欧美,cat_staple,主食,subcat_west_brunch,西式-早午餐,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,贝果、鸡胸肉、牛油果,440,27,1份,True
+dish_light_ext_001,希腊鸡肉沙拉,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_salad,轻食-沙拉,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,鸡胸肉、黄瓜、番茄、生菜、芝士,360,26,1份,True
+dish_light_ext_002,烤牛肉蔬菜沙拉,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_salad,轻食-沙拉,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,牛肉、生菜、黄瓜、番茄,390,29,1份,True
+dish_light_ext_003,毛豆藜麦沙拉,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_salad,轻食-沙拉,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,毛豆、藜麦、生菜,320,22,1份,True
+dish_light_ext_004,鸡胸藜麦沙拉,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_salad,轻食-沙拉,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,鸡胸肉、藜麦、生菜,350,25,1份,True
+dish_light_ext_005,鹰嘴豆番茄沙拉,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_salad,轻食-沙拉,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,鹰嘴豆、番茄、黄瓜,280,20,1份,True
+dish_light_ext_006,三文鱼牛油果沙拉,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_salad,轻食-沙拉,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,三文鱼、牛油果、生菜,390,32,1份,True
+dish_light_ext_007,豆腐波奇碗,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_bowl,轻食-能量碗,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,豆腐、米饭、黄瓜,360,23,1碗,True
+dish_light_ext_008,虾仁藜麦碗,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_bowl,轻食-能量碗,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,虾仁、藜麦、西兰花,380,27,1碗,True
+dish_light_ext_009,牛肉时蔬能量碗,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_bowl,轻食-能量碗,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,牛肉、米饭、西兰花,450,28,1碗,True
+dish_light_ext_010,三文鱼牛油果糙米碗,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_bowl,轻食-能量碗,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,三文鱼、米饭、牛油果,470,32,1碗,True
+dish_light_ext_011,鹰嘴豆鸡胸碗,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_bowl,轻食-能量碗,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,鹰嘴豆、鸡胸肉、藜麦,420,26,1碗,True
+dish_light_ext_012,菌菇豆腐能量碗,cuisine_light,轻食,region_global,全球通用,cat_salad,轻食碗/沙拉,subcat_light_bowl,轻食-能量碗,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,菌菇、豆腐、藜麦,340,22,1碗,True
+dish_light_ext_013,牛肉西兰花蛋白盒,cuisine_light,轻食,region_global,全球通用,cat_main_dish,主菜,subcat_light_protein,轻食-高蛋白主菜,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,牛肉、西兰花、鸡蛋,360,28,1盒,True
+dish_light_ext_014,豆腐毛豆蛋白盒,cuisine_light,轻食,region_global,全球通用,cat_main_dish,主菜,subcat_light_protein,轻食-高蛋白主菜,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,豆腐、毛豆、黄瓜,300,21,1盒,True
+dish_light_ext_015,三文鱼南瓜蛋白盘,cuisine_light,轻食,region_global,全球通用,cat_main_dish,主菜,subcat_light_protein,轻食-高蛋白主菜,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,三文鱼、南瓜、西兰花,340,31,1盘,True
+dish_light_ext_016,鸡蛋鸡胸蛋白盒,cuisine_light,轻食,region_global,全球通用,cat_main_dish,主菜,subcat_light_protein,轻食-高蛋白主菜,diet_meat,肉类,meal_lunch,meal_lunch / meal_dinner,鸡蛋、鸡胸肉、黄瓜,320,24,1盒,True
+dish_light_ext_017,虾仁南瓜蛋白盘,cuisine_light,轻食,region_global,全球通用,cat_main_dish,主菜,subcat_light_protein,轻食-高蛋白主菜,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,虾仁、南瓜、西兰花,300,27,1盘,True
+dish_light_ext_018,金枪鱼黄瓜蛋白盒,cuisine_light,轻食,region_global,全球通用,cat_main_dish,主菜,subcat_light_protein,轻食-高蛋白主菜,diet_seafood,海鲜,meal_lunch,meal_lunch / meal_dinner,金枪鱼、黄瓜、鸡蛋,290,24,1盒,True
+dish_soup_ext_001,紫菜蛋花汤,cuisine_cn,中餐,region_china,中国,cat_soup,汤羹,subcat_cn_home_soup,家常中餐-汤羹,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,海苔、鸡蛋,90,12,1碗,True
+dish_soup_ext_002,番茄蛋花汤,cuisine_cn,中餐,region_china,中国,cat_soup,汤羹,subcat_cn_home_soup,家常中餐-汤羹,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,番茄、鸡蛋,110,12,1碗,True
+dish_soup_ext_003,菌菇豆腐汤,cuisine_cn,中餐,region_china,中国,cat_soup,汤羹,subcat_cn_home_soup,家常中餐-汤羹,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,菌菇、豆腐,130,14,1碗,True
+dish_soup_ext_004,玉米排骨汤,cuisine_cn,中餐,region_china,中国,cat_soup,汤羹,subcat_cn_home_soup,家常中餐-汤羹,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,玉米、排骨,220,18,1盅,True
+dish_soup_ext_005,冬瓜排骨汤,cuisine_cn,中餐,region_china,中国,cat_soup,汤羹,subcat_cn_home_soup,家常中餐-汤羹,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,冬瓜、排骨,190,17,1盅,True
+dish_soup_ext_006,西湖牛肉羹,cuisine_cn,中餐,region_china,中国,cat_soup,汤羹,subcat_cn_home_soup,家常中餐-汤羹,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,牛肉、鸡蛋,180,18,1碗,True
+dish_soup_ext_007,胡辣汤,cuisine_cn,中餐,region_china,中国,cat_soup,汤羹,subcat_cn_home_soup,家常中餐-汤羹,diet_meat,肉类,meal_breakfast,meal_breakfast / meal_lunch,牛肉、辣椒、菌菇,210,13,1碗,True
+dish_soup_ext_008,银耳莲子羹,cuisine_cn,中餐,region_china,中国,cat_soup,汤羹,subcat_cn_home_soup,家常中餐-汤羹,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_dinner,银耳、莲子,160,14,1碗,True
+dish_soup_ext_009,虫草花鸡汤,cuisine_cn,中餐,region_china_guangdong,广东,cat_soup,汤羹,subcat_cn_cantonese_soup,粤菜-汤羹,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,虫草花、鸡腿肉,170,22,1盅,True
+dish_soup_ext_010,苹果雪梨瘦肉汤,cuisine_cn,中餐,region_china_guangdong,广东,cat_soup,汤羹,subcat_cn_cantonese_soup,粤菜-汤羹,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,苹果、雪梨、瘦肉,150,20,1盅,True
+dish_soup_ext_011,莲藕排骨汤,cuisine_cn,中餐,region_china_guangdong,广东,cat_soup,汤羹,subcat_cn_cantonese_soup,粤菜-汤羹,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,莲藕、排骨,210,20,1盅,True
+dish_soup_ext_012,西洋菜猪骨汤,cuisine_cn,中餐,region_china_guangdong,广东,cat_soup,汤羹,subcat_cn_cantonese_soup,粤菜-汤羹,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,西洋菜、排骨,180,19,1盅,True
+dish_soup_ext_013,海底椰鸡汤,cuisine_cn,中餐,region_china_guangdong,广东,cat_soup,汤羹,subcat_cn_cantonese_soup,粤菜-汤羹,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,海底椰、鸡腿肉,160,22,1盅,True
+dish_soup_ext_014,皮蛋鱼片汤,cuisine_cn,中餐,region_china_guangdong,广东,cat_soup,汤羹,subcat_cn_cantonese_soup,粤菜-汤羹,diet_seafood,海鲜,meal_dinner,meal_lunch / meal_dinner,皮蛋、鱼片,140,19,1碗,True
+dish_soup_ext_015,味噌汤,cuisine_jp,日料,region_japan,日本,cat_soup,汤羹,subcat_jp_soup,日料-汤品,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,味噌、海苔、豆腐,70,10,1碗,True
+dish_soup_ext_016,豚汁,cuisine_jp,日料,region_japan,日本,cat_soup,汤羹,subcat_jp_soup,日料-汤品,diet_meat,肉类,meal_dinner,meal_lunch / meal_dinner,猪里脊、胡萝卜、土豆,180,16,1碗,True
+dish_soup_ext_017,蛤蜊味噌汤,cuisine_jp,日料,region_japan,日本,cat_soup,汤羹,subcat_jp_soup,日料-汤品,diet_seafood,海鲜,meal_dinner,meal_lunch / meal_dinner,蛤蜊、味噌,95,15,1碗,True
+dish_soup_ext_018,海带豆腐汤,cuisine_jp,日料,region_japan,日本,cat_soup,汤羹,subcat_jp_soup,日料-汤品,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,海苔、豆腐,85,12,1碗,True
+dish_soup_ext_019,玉子豆腐汤,cuisine_jp,日料,region_japan,日本,cat_soup,汤羹,subcat_jp_soup,日料-汤品,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,鸡蛋、豆腐,100,12,1碗,True
+dish_soup_ext_020,南瓜浓汤,cuisine_west,西式,region_europe_america,欧美,cat_soup,汤羹,subcat_west_soup,西式-汤品,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,南瓜、奶油,190,16,1碗,True
+dish_soup_ext_021,玉米浓汤,cuisine_west,西式,region_europe_america,欧美,cat_soup,汤羹,subcat_west_soup,西式-汤品,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,玉米、奶油,210,16,1碗,True
+dish_soup_ext_022,番茄罗勒汤,cuisine_west,西式,region_europe_america,欧美,cat_soup,汤羹,subcat_west_soup,西式-汤品,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,番茄、洋葱,150,15,1碗,True
+dish_soup_ext_023,奶油蘑菇汤,cuisine_west,西式,region_europe_america,欧美,cat_soup,汤羹,subcat_west_soup,西式-汤品,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,菌菇、奶油,220,17,1碗,True
+dish_soup_ext_024,洋葱汤,cuisine_west,西式,region_europe_america,欧美,cat_soup,汤羹,subcat_west_soup,西式-汤品,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,洋葱、牛奶,130,14,1碗,True
+dish_drink_ext_001,原味豆浆,cuisine_cn,中餐,region_china,中国,cat_drink,饮品,subcat_cn_drink,家常中餐-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,豆浆,110,8,300ml,True
+dish_drink_ext_002,红枣豆浆,cuisine_cn,中餐,region_china,中国,cat_drink,饮品,subcat_cn_drink,家常中餐-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,豆浆、红枣,125,9,300ml,True
+dish_drink_ext_003,黑豆豆浆,cuisine_cn,中餐,region_china,中国,cat_drink,饮品,subcat_cn_drink,家常中餐-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,豆浆、黑豆,120,9,300ml,True
+dish_drink_ext_004,现磨玉米汁,cuisine_cn,中餐,region_china,中国,cat_drink,饮品,subcat_cn_drink,家常中餐-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,玉米、牛奶,135,10,300ml,True
+dish_drink_ext_005,红豆薏米水,cuisine_cn,中餐,region_china,中国,cat_drink,饮品,subcat_cn_drink,家常中餐-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch / meal_dinner,红豆、薏米,95,10,300ml,True
+dish_drink_ext_006,酸梅汤,cuisine_cn,中餐,region_china,中国,cat_drink,饮品,subcat_cn_drink,家常中餐-饮品,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,乌梅、茶叶,85,10,300ml,True
+dish_drink_ext_007,柠檬红茶,cuisine_cn,中餐,region_china,中国,cat_drink,饮品,subcat_cn_drink,家常中餐-饮品,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,柠檬、茶叶,70,11,300ml,True
+dish_drink_ext_008,无糖茉莉茶,cuisine_cn,中餐,region_china,中国,cat_drink,饮品,subcat_cn_drink,家常中餐-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch / meal_dinner,茶叶,5,8,300ml,True
+dish_drink_ext_009,美式咖啡,cuisine_light,轻食,region_global,全球通用,cat_drink,饮品,subcat_light_drink,轻食-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,咖啡,10,12,300ml,True
+dish_drink_ext_010,拿铁,cuisine_light,轻食,region_global,全球通用,cat_drink,饮品,subcat_light_drink,轻食-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,咖啡、牛奶,150,16,300ml,True
+dish_drink_ext_011,抹茶拿铁,cuisine_light,轻食,region_global,全球通用,cat_drink,饮品,subcat_light_drink,轻食-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,抹茶、牛奶,160,18,300ml,True
+dish_drink_ext_012,莓果酸奶昔,cuisine_light,轻食,region_global,全球通用,cat_drink,饮品,subcat_light_drink,轻食-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,莓果、酸奶,180,18,300ml,True
+dish_drink_ext_013,牛油果酸奶昔,cuisine_light,轻食,region_global,全球通用,cat_drink,饮品,subcat_light_drink,轻食-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,牛油果、酸奶,210,20,300ml,True
+dish_drink_ext_014,鲜榨橙汁,cuisine_light,轻食,region_global,全球通用,cat_drink,饮品,subcat_light_drink,轻食-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,橙子,95,14,300ml,True
+dish_drink_ext_015,香蕉燕麦奶昔,cuisine_light,轻食,region_global,全球通用,cat_drink,饮品,subcat_light_drink,轻食-饮品,diet_vegetarian,素食,meal_breakfast,meal_breakfast / meal_lunch,香蕉、燕麦、牛奶,220,17,300ml,True
+dish_drink_ext_016,冷泡柠檬茶,cuisine_light,轻食,region_global,全球通用,cat_drink,饮品,subcat_light_drink,轻食-饮品,diet_vegetarian,素食,meal_lunch,meal_lunch / meal_dinner,柠檬、茶叶,45,13,300ml,True

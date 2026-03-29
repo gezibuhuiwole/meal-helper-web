@@ -1,0 +1,12 @@
+page {
+  min-height: 100%;
+  background: #f7f3ee;
+  color: #2c221c;
+  font-family: "PingFang SC", "Helvetica Neue", sans-serif;
+}
+
+.card {
+  background: #fffdf9;
+  border-radius: 28rpx;
+  box-shadow: 0 16rpx 40rpx rgba(78, 56, 42, 0.08);
+}

@@ -1,0 +1,7 @@
+﻿id,name,regionId
+cuisine_cn,中餐,region_china
+cuisine_jp,日料,region_japan
+cuisine_kr,韩餐,region_korea
+cuisine_sea,东南亚,region_southeast_asia
+cuisine_west,西式,region_europe_america
+cuisine_light,轻食,region_global

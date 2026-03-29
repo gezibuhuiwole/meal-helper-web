@@ -1,0 +1,8 @@
+﻿id,name,sortOrder
+cat_main_dish,主菜,1
+cat_staple,主食,2
+cat_snack,小吃,3
+cat_soup,汤羹,4
+cat_dessert,甜品,5
+cat_drink,饮品,6
+cat_salad,轻食碗/沙拉,7

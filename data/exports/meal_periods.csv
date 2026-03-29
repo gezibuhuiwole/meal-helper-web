@@ -1,0 +1,4 @@
+﻿id,key,label,sortOrder
+meal_breakfast,breakfast,早餐,1
+meal_lunch,lunch,午餐,2
+meal_dinner,dinner,晚餐,3

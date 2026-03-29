@@ -1,0 +1,109 @@
+<view class="page">
+  <view class="summary-shell">
+    <view class="summary card">
+      <view class="summary-topline">
+        <view class="summary-main">
+          <view class="summary-title">今日点餐</view>
+          <view class="summary-meta">按餐次和分类选择菜品，实时查看热量、金额和食材。</view>
+        </view>
+        <view class="meal-pill">{{activeMealSummary}}</view>
+      </view>
+
+      <view class="stats">
+        <view class="stat-box">
+          <view class="stat-label">已选</view>
+          <view class="stat-value">{{selectedCount}} 道</view>
+        </view>
+        <view class="stat-box">
+          <view class="stat-label">热量</view>
+          <view class="stat-value">{{totalCalories}} kcal</view>
+        </view>
+        <view class="stat-box">
+          <view class="stat-label">金额</view>
+          <view class="stat-value">¥{{totalPrice}}</view>
+        </view>
+      </view>
+
+      <view class="ingredient-strip">
+        <view class="ingredient-title">需准备食材 · {{selectedIngredientCount}} 种</view>
+        <scroll-view class="ingredient-scroll" scroll-x="true" enable-flex="true" wx:if="{{selectedIngredientsPreview.length}}">
+          <view class="ingredient-list">
+            <block wx:for="{{selectedIngredientsPreview}}" wx:key="name" wx:for-item="item">
+              <view class="ingredient-chip">{{item.name}} x{{item.count}}</view>
+            </block>
+          </view>
+        </scroll-view>
+        <view class="ingredient-empty" wx:else>暂未选择菜品</view>
+      </view>
+    </view>
+  </view>
+
+  <view class="workspace card">
+    <view class="workspace-head">
+      <view>
+        <view class="workspace-title">{{currentMealLabel}}</view>
+        <view class="workspace-desc">浏览当前分类，选择想吃的菜品。</view>
+      </view>
+      <view class="workspace-badge">{{currentCategoryLabel}} · {{currentDietaryTypeLabel}} · {{visibleDishes.length}} 道</view>
+    </view>
+
+    <view class="workspace-body">
+      <view class="meal-tabs">
+        <block wx:for="{{mealTabs}}" wx:key="key" wx:for-item="meal">
+          <view class="meal-tab {{meal.key === currentMealKey ? 'meal-tab-current' : ''}} {{meal.enabled ? '' : 'meal-tab-off'}}" bindtap="handleMealFocus" data-meal-key="{{meal.key}}">
+            <view class="meal-tab-main">
+              <view class="meal-tab-label">{{meal.label}}</view>
+              <view class="meal-tab-meta">{{meal.selectedCount}} 道</view>
+            </view>
+            <view class="meal-tab-switch {{meal.enabled ? 'meal-tab-switch-on' : 'meal-tab-switch-off'}}" catchtap="handleMealSwitch" data-meal-key="{{meal.key}}">
+              {{meal.enabled ? '开' : '关'}}
+            </view>
+          </view>
+        </block>
+      </view>
+
+      <view class="dish-grid-wrap">
+        <view class="filter-section" wx:if="{{categoryTabs.length}}">
+          <view class="filter-title">菜品分类</view>
+          <view class="category-tabs">
+            <block wx:for="{{categoryTabs}}" wx:key="id" wx:for-item="category">
+              <view class="category-chip {{category.id === currentCategoryId ? 'category-chip-current' : ''}}" bindtap="handleCategoryFocus" data-category-id="{{category.id}}">
+                <view class="category-chip-label">{{category.label}}</view>
+                <view class="category-chip-count">{{category.count}}</view>
+              </view>
+            </block>
+          </view>
+        </view>
+
+        <view class="filter-section" wx:if="{{dietaryTabs.length}}">
+          <view class="filter-title">荤素筛选</view>
+          <view class="dietary-tabs">
+            <block wx:for="{{dietaryTabs}}" wx:key="id" wx:for-item="dietary">
+              <view class="dietary-chip {{dietary.id === currentDietaryTypeId ? 'dietary-chip-current' : ''}}" bindtap="handleDietaryFocus" data-dietary-id="{{dietary.id}}">
+                <view class="dietary-chip-label">{{dietary.label}}</view>
+                <view class="dietary-chip-count">{{dietary.count}}</view>
+              </view>
+            </block>
+          </view>
+        </view>
+
+        <view class="dish-grid">
+          <block wx:for="{{visibleDishes}}" wx:key="id" wx:for-item="dish">
+            <view class="dish-card {{dish.selected ? 'dish-card-selected' : ''}}" bindtap="handleDishToggle" data-meal-key="{{currentMealKey}}" data-dish-id="{{dish.id}}">
+              <view class="dish-card-top">
+                <view class="dish-card-name">{{dish.name}}</view>
+                <view class="dish-card-check">{{dish.selected ? '已选' : '选择'}}</view>
+              </view>
+              <view class="dish-card-meta">{{dish.calories}} kcal · ¥{{dish.price}}</view>
+              <view class="dish-card-tags">
+                <block wx:for="{{dish.ingredientPreview}}" wx:key="*this" wx:for-item="ingredient">
+                  <view class="dish-card-tag">{{ingredient}}</view>
+                </block>
+              </view>
+            </view>
+          </block>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

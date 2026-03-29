@@ -1,0 +1,15 @@
+﻿id,name,parentId,level
+region_global,全球通用,,0
+region_east_asia,东亚,region_global,1
+region_southeast_asia,东南亚,region_global,1
+region_europe_america,欧美,region_global,1
+region_china,中国,region_east_asia,2
+region_japan,日本,region_east_asia,2
+region_korea,韩国,region_east_asia,2
+region_china_northeast,东北,region_china,3
+region_china_beijing,北京,region_china,3
+region_china_sichuan,四川,region_china,3
+region_china_shandong,山东,region_china,3
+region_china_guangdong,广东,region_china,3
+region_china_xinjiang,新疆,region_china,3
+region_china_hunan,湖南,region_china,3

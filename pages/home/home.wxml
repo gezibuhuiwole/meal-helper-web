@@ -1,0 +1,20 @@
+<view class="page">
+  <view class="hero card">
+    <view class="hero-title">今日功能</view>
+    <view class="hero-desc">热量统计已整合到点餐流程中，选菜时可直接查看。</view>
+  </view>
+
+  <view class="feature-list">
+    <block wx:for="{{features}}" wx:key="key">
+      <view class="feature card" bindtap="handleFeatureTap" data-key="{{item.key}}" data-available="{{item.available}}">
+        <view class="feature-top">
+          <view class="feature-title">{{item.title}}</view>
+          <view class="badge {{item.available ? 'badge-active' : 'badge-coming'}}">
+            {{item.available ? '可使用' : '敬请期待'}}
+          </view>
+        </view>
+        <view class="feature-desc">{{item.desc}}</view>
+      </view>
+    </block>
+  </view>
+</view>
