@@ -995,10 +995,44 @@ button {
     grid-template-columns: 1fr;
   }
 
+  .summary-bar {
+    position: static;
+    top: auto;
+    z-index: auto;
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+
+  .summary-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+
+  .summary-stat {
+    padding: 14px 16px;
+  }
+
+  .summary-stat strong {
+    font-size: 28px;
+  }
+
   .summary-toolbar,
   .site-footer {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .summary-toolbar {
+    gap: 12px;
+  }
+
+  .meal-switches,
+  .summary-buttons {
+    width: 100%;
+  }
+
+  .summary-buttons {
+    justify-content: space-between;
   }
 
   .planner-layout {
@@ -1030,6 +1064,33 @@ button {
 
   .summary-grid {
     grid-template-columns: 1fr;
+  }
+
+  .summary-stat {
+    padding: 12px 14px;
+  }
+
+  .summary-stat strong {
+    font-size: 24px;
+  }
+
+  .meal-switches {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .meal-switch,
+  .summary-buttons .cta-primary.small,
+  .summary-buttons .text-action {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .summary-buttons {
+    flex-direction: column;
+    align-items: stretch;
   }
 
   .hero-stats div,
